@@ -1,0 +1,5 @@
+Projetinho novo onde tentarei desenvolver ao longo do tempo, alguma coisa voltada 
+para o turísmo no Espírito Santo.
+
+Este será mais pra exercitar habilidades de HTML, CSS e JavaScript. Se houver 
+tempo para melhorias de qualidade, quem sabe eu o levo ao comércio.
